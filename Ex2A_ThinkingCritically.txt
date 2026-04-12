@@ -1,0 +1,19 @@
+Google Trends: https://trends.google.com/trends/
+
+What is the highest peak recorded in the line chart for “Interest over time”?
+  - Jan 31 / Feb 28 at 99 milkshakes searched.
+What is the lowest dip recorded?
+  - Nov 30 / Dec 31 at only 64 milkshakes.
+
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+  - Apr 30 / May 31 is the highest at 100 Hamburgers.
+b) What happened to the line for Milkshake? What do the high and low look like now
+  - It's all nearly straight, with little differences between the dates.
+Why did the line for Milkshake change?
+  - The interests for milkshakes died down.
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+  - Not alot of correlation.
+b) How about between Breakup and Milkshake?
+  - Also not a lot of correlation.
