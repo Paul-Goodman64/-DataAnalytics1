@@ -1,0 +1,14 @@
+Go to Most Viewed Datasets. How many datasets are listed?
+  - 402,396 datasets
+Why do you think these were tagged with the Human Health category?
+  - All of  them are related to human health with food and nutricional research.
+How can you navigate to additional datasets from the USDA
+  - By scrolling through the datasets or looking for them in the search bar.
+Try searching for your city, county, and state. What organizations are returned?
+  - Crime, Public transportation, and traffic datasets.
+Try searching for butter, or any of your favorite foods. What kind of results do you get? What happens when you click on a result?
+  - I looked for Bacon, and there was only one result, however clicking on that result gave me an error page. Dunno what to do about that.
+Go back to the home page. Find Foundation Foods, and click on Downloads. What kind of data can you find on this page? 
+How big are these files? Where can you find more information on the data types available?
+  - A whole load of tables with download links with dates and file formats and other things I don't understand, I imagine someone more competent and knowledgeable
+on the subject can find what they're looking for easily, but I am completely lost.
